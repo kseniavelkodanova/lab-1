@@ -1,11 +1,3 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
-
 #include <iostream>
 using namespace std;
 int main()
@@ -32,6 +24,4 @@ int main()
     cout << "Square S1: " << S1 << endl;
     cout << "Square S2: " << S2 << endl;
     cout << "Square S3: " << S3 << endl;
-}    
-    
-   
+}       
